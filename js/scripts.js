@@ -14,7 +14,9 @@ function transformGroceryList(arrayParameter) {
 // UI Logic
 
 $(document).ready(function() {
-
+  $("button#add-input").click(function() {
+    $("div#form-inputs").append("<input type='text'>");
+  });
 });
 
 // End UI Logic
