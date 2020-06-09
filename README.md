@@ -1,23 +1,31 @@
-# [Program Title]
+# Grocery List Organizer
 
-  ### By [Author(s)]
+  ### By Taylor Somers
 
 ## Description
 
-  [Description of program functionality & intent presented as an elevator pitch]
+  A website displaying what I have learned with regard to using arrays and loops to collect, organize, format, and display data from users. To illustrate the principles involved, I've followed the instruction received from Epicodus to create a website that collects items to be added to a grocery list and capitalizes the first letter of each item as well as displaying them in an alphabetized ordered list.
 
 ## Languages & Technologies Used:
 
   ### Programming Languages & Libraries
-  * [Unordered List]
+  * Bootstrap
+  * CSS
+  * HTML
+  * jQuery
+  * JavaScript
 
   ### Operating Systems & Programs
-  * [Unordered List]
+  * Git Bash
+  * Google Chrome
+  * Microsoft Windows 10
+  * Mozilla Firefox
+  * Visual Studio Code
 
 ## Installation
 
   1. Download a web browser, such as Apple Safari, Google Chrome, Microsoft Edge, Mozilla Firefox, or Yandex.
-  2. Navigate to https://github.com/taylorsomers/[repository].
+  2. Navigate to https://github.com/taylorsomers/grocery-list.
   3. Click the green "Clone or download" button at the right of the screen.
   4. Select "Download ZIP."
   5. Use a file extractor or unzip program (such as PeaZip, Unzipper, WinZip, Zipware, or 7-ZIP) to extract the ZIP files onto your computer.
@@ -30,7 +38,7 @@
 
 ### Contributors
 
-  * [Contributor(s): Anyone who contributed at least %5 of the total product.]
+  * Taylor Somers
 
 ### License
 
